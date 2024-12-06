@@ -1,0 +1,36 @@
+Name: Shawki Izzat
+Partner's name: Kristy
+
+Object description received: 
+
+  I lost my wallet… in Japan… It was a Balenciaga wallet.  The wallet is rectangular in shape with slightly rounded edges. There’s a bifold design that you can fold in the middle. The wallet has a flap that folds over the front and it was black with a leather pattern that had a slightly glossy finish. And there are colorful graffitis and “wallet” written on the surface as design and the brand name ‘Balenciaga’ in the front with silver color coating. 
+
+1. Draw a square, any color of the canvas would ok
+
+2. At the center of the canvas draw a rectangle, in the middle of the canvas occupying about ⅔ of the canvas,,?? The rectangle should be no stroke or black, inside should be black. 
+
+3. You should draw a triangle in the middle of the rectangle and two arcs reach to the top of it. This triangle should be occupying ¾ of the rectangle. With white or gray stroke no fill or just black.
+
+4. You can also draw a small rectangle in the middle of the triangle as the brand name. With silver/ gray color fill. 
+
+
+Reflection:
+
+If Kristy had lost a wallet from H&M or Target or Walmart or anything else that would've cost less than 20$, then I wouldn't need any details. But it was a Balenciaga wallet, which I had never seen before. However,Kristy's ellaborate description helped paint a vivid picture that was easy to translate from text to code. Additionally, she also gave more context by providing a breakdown of the shapes which further simplified the process. 
+
+The shapes along with their respective colors in the description gave me a good blueprint to visualize my design. I envisioned a black wallet with grey/silver highlights at the top. I didn't think it would be bulky like the normal wallets and would be more compact and minimalistic, as most luuxry brands are. 
+
+An area that I did struggle with was the number of pockets to include. I used one large flap fold pocket and wasn't sure if Kristy wanted me to show the front and back. Another area was the graffitis. I emulated the concept of graffitis by using triangles without any fill.
+
+Here are some of the key takeaways I learned to craft some of the aspects of the design you see:-
+
+- I wanted to create shapes without any outlines by default throughout my sketch unless specified. So I used the noStroke() function right at the beginning. 
+
+- On the subject of strokes, I also used the stroke function to draw the traingular 'graffitis' in neon colors at the bottom of the wallet.
+
+- I educated myself on adding text in code, to add the 'Balenciaga' label on the wallet. Moreover, in order to replicate a glossy texture and folds in the wallet, I used contrasts of different fills and strokes of black and grey.
+
+- I incorporated the 'BLUR' command to help create a drop shadow for the main rectangular body, to make the wallet pop out more from the background. I also used corner radius of different values to create rounded shapes. 
+
+
+In conlclusion, I had fun designing a Kristy's lost and found item, and this assignment helped me hone the fundamentals of p5js.
