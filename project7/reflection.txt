@@ -1,0 +1,29 @@
+Name:Shawki Izzat
+Assignment 7 Contd (Autobiographical game)
+
+AUTO-BIO CONTEXT:
+
+Welcome to Plagerizer Pro!
+
+You are Shawki. You like Halloween. You partied too hard on Halloween, only to wake up the next day and learn that you have an assignment that is due! You must walk through the D12 floor, avoid obstacles, and collect pieces of your peers' work to come up with an "original" submission. But hurry! You must do this before the timer runs out!
+
+UPDATE:
+There have been many changes made to my game since my initial submission. Not so much in the premise or logic of the game, but more so on the aethetics and visuals. These changes were majorly a result of my machine crashing, which I explained below.
+
+My last iteration was constantly making my machine crash. I was getting pop up messages telling me that I didn't have enough CPU power and it was an ordeal to figure out the issue. After many trial and error sessions, it seemed as though the assets I used were slowing down my editor (even though I had two images and a font). I decided to revamp the look of my game, and start a new project. This time using as little or as less size heavy assets. 
+
+This led me to take the classic gameboy route. The first gameboy had no color. Everything was this greenish-blue greyscale. I figured that would give a retro vibe to my game and luckily, it wasn't as taxing on my machine. 
+
+To further immerse the player into the game, I included sound effects and background music.
+
+As far as the game itself is concerned, the grid part took the most time. My initial concept was to increase the grid size as you progress through different levels, but given how long it had taken to resolve the previous issues, I wasn't able to include more complicated grids. If given an extra day, I might be able to solve it and submit the actual version. But for now, this is the game I have. I am happy with the look and feel of the game, but I wasn't able to program more levels given the time I had and how many crashing issues I encountered. 
+
+UPDATE 2.0:
+After getting the chance to test my game in class and some valuable feedback later, I went back to the code to clean up a few things, and also added some additional levels. Mainly I have added the following:
+
+- A restart game function
+- Three game difficulty modes: Easy, Hard, and Shawki.
+
+The game difficulty is determined by the obstacle probability. For Easy mode the probability is 0.1, for hard it is 0.15, and for shawki mode it is 0.2. Essentially, you will see more obstacles on the grid if you choose the more diffcult playing mode. The mechanic remains unchanged. 
+
+One error that does show up sometimes is the placement of the obstacles. It is rare but occasionally the starting point of the player may be trapped by obstacles or a single piece of homework might be in a spot that cannot be reached. The workaround this is to simply hit '0' key and restart the game so you don't see this issue, but that shouldn't be the case. It was diffcult for me to debug this particular issue since the obstacles, treasure, and blank spots are all randomly generated. Regardless, the game is still fun and this complaint wasn't brought up during the gameplay session.
