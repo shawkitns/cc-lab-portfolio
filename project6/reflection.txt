@@ -1,0 +1,10 @@
+Name:Shawki Izzat
+Assignment No.6: Data Portrait
+
+For my data portrait, I wanted to focus on a of mine hobby which by extension involves me using my phone. That hobby is listening to music. I wanted create a visualization of how much time I spend on Spotify each day.
+
+I used the data from my phone to create an array for the number of minutes I have spent over the last week, listening to music. The idea that the user will see more green on the days I spend more time listening to Spotify. 
+
+My initial idea was to create a grid of circles which would expand according to the day of week/Spotify usage. But aesthetically, that came across as too boring. So instead, I came across this YouTube video and modified my code to combine the two ideas : https://www.youtube.com/watch?v=AVMSCFMCz9w
+
+When the user moves their cursors, they are able to create a spotlight effect that follows their cursor. I changed the grid's numbers which adapt to the no of minutes spent on Spotify. In simple words: more green, more time spent on Spotify. The number of minutes spent on Spotify are displayed and every time the user clicks on the screen, they traverse the array and move onto to the next day.

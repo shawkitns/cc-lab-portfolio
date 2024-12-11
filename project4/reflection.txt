@@ -1,0 +1,11 @@
+Name:Shawki
+Assignment 4: Exquisitee Corpse
+
+NOTE: All sketches have been attached to P5JS for context
+
+I was in a team of four creatives (Diana, Ryan, Jovana, and myself). It was interesting to see both the similarities and drastic visual elements present in each of our ideas of what “an exquisite corpse” looks like when we shared our sketches. Each sketch told a different story. Jovana’s corpse looked vibrant and joyful with many different colors, Diana’s sketch reminded me of an evil robot ballerina, and Ryan's sketch looked like a retro 50’s cartoon of an organic swamp-like creature.  The sketch that I presented was of Venom, the popular Spider-Man villain. I began my work by selecting the head from Ryan’s sketch, the upper body from Diana’s sketch, and the lower body from Jovana’s sketch. I combined these elements by drawing a basic sketch which combined all these elements, which behaved as my blueprint.
+
+I deliberately didn’t use colors for my sketch because a corpse to me is lifeless and I wanted my sketch to reflect that. However, since Jovana’s sketch seemed so gleeful, it seemed like a disservice to suck all the color out of the sketch. So in addition to creating a sketch devoid of bright colors, I added a “ressuicate” functionality which basically “brings life” back to the corpse when the user holds down the mouse button. In doing so the corpse is adorned with bright colors. These colors are variables which can be easily swapped within the source code. 
+In terms of organization, I mainly divided my sketch into three user-defined functions: one for the head, one for the upper body, and one for the lower body. 
+
+This assignment was a more relaxed extension of the first ever assignment we had (lost and found). I think now that the class has some more experience with the p5js environment, they were able to create more complex sketches (be it through shapes, textures, or even adding interactive functionality). Unlike the clock, which involved time synchronicity, conditionals,and  mapping, this was a simple sketch that involved the collaboration of multiple students to present an idea that was greater than the sum of its parts. 

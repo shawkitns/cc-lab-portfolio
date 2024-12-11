@@ -1,0 +1,17 @@
+Name:Shawki Izzat
+Assignment 5: Optical Illusion
+
+How to interact:
+- Hover cursor across canvas' x-axis to adjust speed (left is slowest, right is fastest)
+
+- Hover cursor across canvas' y-axis to adjust pattern shape (left is slowest, right is fastest)
+
+- Color changes with time
+
+I wanted to constrain myself to work with a grid like illusion and to stay away from spirals. Particualry because it is easier for me to explain my code/the user to read it and I wanted to showcase how through simple rectangles and minor tweaks one could achieve something..."pretty".
+
+The illusion itself is a combination of static and dynamic elements, similar to my clock assignment. A few rows stay the same color but the rest change color with time. This was achieved through mapping the RGB values to the seconds and framecount. Moreover, I was also able to make this illusion more psycheldeic and trippy by increasing the rotation speed and dimensions of the shapes, both of which change as you navigate your cursor across the canvas.
+
+There are numeric values in the code that have been used through trial and error, and essentially not much logic in why those particular numbers were used other than the fact that it was just a matter of preference when it comes to aesthetics. 
+
+In the future I would like to polish my understanding more of rotation and values to create more complicated patterns.
