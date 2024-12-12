@@ -1,12 +1,22 @@
 
 @font-face {
-     font-family: "Manifold";
+     font-family: "Manifold Regular";
+     font-weight:normal;
      src: url('/assets/Fontspring-DEMO-manifoldextendedcf-regular.otf'); 
-     weight:normal;
      
     } 
 
-    @font-face { font-family: Delicious; font-weight: bold; src: url('Delicious-Bold.otf');}
+    @font-face { 
+        font-family: "Manifold Light";
+        font-weight:light;
+        src: url('/assets/Fontspring-DEMO-manifoldextendedcf-light.otf'); 
+        }
+
+        @font-face { 
+            font-family: "Manifold Bold";
+            font-weight:bold;
+            src: url('/assets/Fontspring-DEMO-manifoldextendedcf-bold.otf'); 
+            }
 
 
 body{
@@ -68,4 +78,35 @@ body{
     
 footer{
 text-align: center;
+}
+
+h1{
+ font-family: "Manifold Bold";
+}
+
+h2{
+    font-family: "Manifold Bold";
+    font-size: medium;
+
+}
+
+a{
+    font-family: "Manifold Bold";
+
+}
+
+p{
+    font-family: "Manifold Regular";
+    font-size: small;
+
+}
+
+h3{
+    font-family: "Manifold Regular";
+    font-size: xx-small;
+}
+
+.project-info h3{
+    font-size: small;
+    font-family: "Manifold Light";
 }

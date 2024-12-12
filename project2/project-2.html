@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="../../styles.css">
 
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/addons/p5.sound.min.js"></script>
     <script src="sketch.js"></script> -->
 
 </head>
-<body>
-    <body style="background-color: #60B5DA;">
+
+    <body>
         <!-- <h1>Logo</h1> -->
         <img src="../assets/humon_logo.png" width="151px" height="70px"/>
         <h1>Shawki I's Website.</h1>
@@ -35,10 +35,15 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/addons/p5.sound.min.js"></script>
         <script src="sketch.js"></script>
-        <h3>Description: This project generates a random clown face. You can control the size of the nose and hair by moving the cursor and clicking the sketch will change the colors of the sketch.
-        </h3>
-    
-    
+        <h2>This project generates a random clown face. You can control the size of the nose and hair by moving the cursor and clicking the sketch will change the colors of the sketch.</h2>
+
+        <div class="project-info">
+        <h3>Reflection: For the face generator assignment, I wanted to create a random clown generator. But I didn't want every aspect of the face to be completely arbitrary. My objective was to create a face that was a hybrid of static elements, random but synchronized elements, and completely random elements. I began by referencing my sketch and determining which of the three element categories I would place each feature of the clown's face.</h3>
+<h3>The position of the face, the eyebrows, and the eye's scilera would all be static. This means that the XY-position, and no other argument, would remain the same throughout the playtime.</h3>
+<h3>The random but synchronized elements are the ones that change in accordance to the position of the mouse. Even though the height and width for the hair, the nose size, and the smile's arc are changing as you move the cursor around, there is still some level of organization I wanted to maintain so that the design would still be symmetrical. Specifically, the hair on both the left and right side would change proportions equally. </h3>
+<h3>The completely random elements are all the elements that change once the mousePressed function is called. These include the thickness of the smile, the thickness of the eyebrows, the position of each eyeball, and the color of the main features.</h3>
+    <h3>As a result of this hybrid approach, the permutations and number of unique faces that could be generated are maximized every time the user moves the cursor, clicks on the mouse, or does both.     </h3>
+  <h3>The introduction of variables, parameters, randomness, and more for this week's lab has given us a peek into what p5js is capable of, and how much more advanced and dynamic our future projects can be. I am interested to integrate if-conditions in the near future to play around with this project even more.</h3>
+</div>
     </body>
-</body>
 </html>
