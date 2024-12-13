@@ -2,20 +2,20 @@
 @font-face {
      font-family: "Manifold Regular";
      font-weight:normal;
-     src: url('assets/Fontspring-DEMO-manifoldextendedcf-regular.otf'); 
+     src: url('../assets/Fontspring-DEMO-manifoldextendedcf-regular.otf'); 
      
     } 
 
     @font-face { 
         font-family: "Manifold Light";
         font-weight:light;
-        src: url('assets/Fontspring-DEMO-manifoldextendedcf-light.otf'); 
+        src: url('../assets/Fontspring-DEMO-manifoldextendedcf-light.otf'); 
         }
 
         @font-face { 
             font-family: "Manifold Bold";
             font-weight:bold;
-            src: url('assets/Fontspring-DEMO-manifoldextendedcf-bold.otf'); 
+            src: url('../assets/Fontspring-DEMO-manifoldextendedcf-bold.otf'); 
             }
 
 
