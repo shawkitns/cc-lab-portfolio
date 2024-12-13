@@ -110,3 +110,28 @@ h3{
     font-size: small;
     font-family: "Manifold Light";
 }
+
+.recommendations h3{
+    font-size: medium;
+    font-family: "Manifold Bold";
+}
+
+.about-section{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    margin-top: 40px;
+    padding-inline: 30px;
+}
+
+.about-section img {
+    max-width: 100%; /* Make the image responsive */
+    height: auto;
+    border-radius: 10px;
+  }
+
+.about-section h3{
+    font-size: large;
+    font-family: "Manifold Bold";
+}
+
